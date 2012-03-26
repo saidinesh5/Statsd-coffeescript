@@ -4,10 +4,10 @@
   "description": "Yet another statsd client implementation - this time in coffeescript",
   "keywords": ["logging", "sysadmin", "tools", "statsd"],
   "version": "0.1.0",
-  "homepage": "https://github.com/chitika/statsd-coffeescript",
+  "homepage": "https://github.com/saidinesh5/Statsd-coffeescript",
   "repository": {
     "type": "git",
-    "url": "git://github.com/chitika/statsd-coffeescript.git"
+    "url": "git://github.com/saidinesh5/Statsd-coffeescript.git"
   },
   "main": "./lib/statsd.coffee",
   "dependencies": {
